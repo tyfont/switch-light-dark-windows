@@ -5,7 +5,7 @@ I created this in 5 mins, you guys can make it better.
 
 ### how to use
 1. Clone this git or simple download 2 bat script
-2. Add script to Start menu for quick access
+2. Send to Desktop (create shortcut)
 3. Run it when you need to switch
 
 ### todo
