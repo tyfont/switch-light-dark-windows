@@ -11,3 +11,6 @@ I created this in 5 mins, you guys can make it better.
 ### todo
 - Make them in one file (I need to learn how to get regedit value from batch)
 - Make it work in Windows 11 (actually I didn't test it)
+
+
+Inspired (and take regedit value) from https://sumitkp.medium.com/how-to-enable-dark-mode-with-shortcut-on-windows-10-2571c53aed5f
